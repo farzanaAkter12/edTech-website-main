@@ -1,8 +1,6 @@
-.smart-edu-text{
-    color:  #ba0808!important;
-}
-.bg-banner-first{
-    background-image: url(images/cover/cover-1.png);
+
+.bg-image{
+    background-image: url(/images/cover/cover-1.png);
         background-repeat: no-repeat;
         background-position: center;
             /* Center the image */
